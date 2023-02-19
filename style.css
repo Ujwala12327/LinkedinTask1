@@ -1,5 +1,6 @@
 body{
-    background:rgba(0,0,0,0.5) url("https://thumbs.dreamstime.com/b/burger-french-fries-fast-food-eat-plate-32595557.jpg");
+    background:rgba(0,0,0,0.5) url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UTgdIif77YK7dXajM3kLlupuLMS3E2i45w&usqp=CAU");
+    /* https://thumbs.dreamstime.com/b/burger-french-fries-fast-food-eat-plate-32595557.jpg */
      background-size: cover;
      background-blend-mode: darken;
 }
